@@ -13,14 +13,14 @@
   
 <br/>
 
-<h2>Mis Skills</h2>
+<h2>Skills</h2>
 
 <div align="center">
 <img src="skills.png" align="center" style="width: 60%" "height : 50%" />
 </div>
 
 <br/>  
- <h2>Mis Soft-Skills</h2>
+ <h2>Soft-Skills</h2>
 
 <div align="center">
 <img src="softSkills.png" align="center" style="width: 60%" "height : 50%" />
