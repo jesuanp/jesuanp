@@ -9,7 +9,7 @@
   
 - 🌱 Actualmente estoy aprendiendo a utilizar firebase.
 
-
+- ¿Cómo contactarme por mail? [![Gmail Badge](https://img.shields.io/badge/-JesuanPatermina-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@pereyrapame)](mailto:jespaterm@gmail.com)
   
 <br/>
 
@@ -29,8 +29,6 @@
 
 
 ## Contáctame
-
-[![Gmail Badge](https://img.shields.io/badge/-JesuanPatermina-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@pereyrapame)](mailto:jespaterm@gmail.com)
 
 <div align="center">
 <a href="https://github.com/1244-agustinborquez" target="_blank">
